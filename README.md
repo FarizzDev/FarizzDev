@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green"/>
 </p>
 
 <p align="center">
