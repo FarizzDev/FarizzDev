@@ -2,7 +2,7 @@
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=FarizzDev&data=followers,repositories,stars,commits&theme=nautilus" alt="FarizzDev">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarizzDev&layout=compact&theme=radical" width="450"/>
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lemonsync&include_orgs=true&show_icons=true&theme=radical&locale=en">
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=FarizzDev&include_orgs=true&show_icons=true&theme=radical&locale=en">
 </h3>
 <div align="left" style="margin-left: 9000px;">
   
